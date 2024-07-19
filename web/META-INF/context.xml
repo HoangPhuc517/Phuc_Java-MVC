@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MVC100">
+    <Resource name="PHUC17" type="javax.sql.DataSource" auth="Container" 
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+                url="jdbc:sqlserver://localhost:1433;databaseName=Phuc;instanceName=SQLEXPRESS"
+                username="SA" password="12345"/>
+</Context>
